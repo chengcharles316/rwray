@@ -47,7 +47,7 @@ fork 之后 ，在railway的dashboard，选择 new project
 <summary>V2rayN(Xray、V2ray)</summary>
 
 ```bash
-* 客户端下载：https://github.com/2dust/v2rayN/releases
+* 客户端下载
 * 代理协议：vless 或 vmess
 * 地址：xxx.herokuapp.com
 * 端口：443
@@ -67,7 +67,7 @@ fork 之后 ，在railway的dashboard，选择 new project
 <summary>Trojan-Go</summary>
 
 ```bash
-* 客户端下载: https://github.com/p4gefau1t/trojan-go/releases
+* 客户端下载
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
@@ -90,7 +90,7 @@ fork 之后 ，在railway的dashboard，选择 new project
 <summary>Shadowsocks</summary>
 
 ```bash
-* 客户端下载：https://github.com/shadowsocks/shadowsocks-windows/releases/
+* 客户端下载
 * 服务器地址: xxx.herokuapp.com
 * 端口: 443
 * 密码：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
